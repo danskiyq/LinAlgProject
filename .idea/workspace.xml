@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d6e3d0c-72c8-447b-9524-19fbe48a2c88" name="Changes" comment="cats app">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d2afbf-116b-4cbd-b3d2-18edd8c5d75f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b9d2afbf-116b-4cbd-b3d2-18edd8c5d75f.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autos/templates/registration/logout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +123,7 @@
       <workItem from="1641993493356" duration="11573000" />
       <workItem from="1642012084386" duration="961000" />
       <workItem from="1642017252699" duration="474000" />
+      <workItem from="1642017744985" duration="2033000" />
     </task>
     <task id="LOCAL-00001" summary="cats app">
       <created>1642011997478</created>
