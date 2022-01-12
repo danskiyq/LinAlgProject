@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d6e3d0c-72c8-447b-9524-19fbe48a2c88" name="Changes" comment="cats app">
-      <change afterPath="$PROJECT_DIR$/autos/templates/registration/logout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="2d6e3d0c-72c8-447b-9524-19fbe48a2c88" name="Changes" comment="cats app" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +119,7 @@
       <workItem from="1641993493356" duration="11573000" />
       <workItem from="1642012084386" duration="961000" />
       <workItem from="1642017252699" duration="474000" />
-      <workItem from="1642017744985" duration="2033000" />
+      <workItem from="1642017744985" duration="2349000" />
     </task>
     <task id="LOCAL-00001" summary="cats app">
       <created>1642011997478</created>
@@ -132,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642011997480</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cats app">
+      <created>1642020632540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642020632540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
