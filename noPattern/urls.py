@@ -18,8 +18,10 @@ from django.urls import path, include
 from django.views.generic import TemplateView
 
 urlpatterns = [
-    path('polls/', include('polls.urls')),
+    path('polls/', include('polls.urls'), name='polls_app'),
     path('admin/', admin.site.urls),
     path('', TemplateView.as_view(template_name='home/home.html')),
-    path('hello/', include('hello.urls'))
+    path('hello/', include('hello.urls'), name='hello_app'),
+    path('autos/', include('autos.urls'), name='autos_app'),
+    path('accounts/', include('django.contrib.auth.urls'))
 ]
